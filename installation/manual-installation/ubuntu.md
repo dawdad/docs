@@ -54,7 +54,7 @@ sudo apt-get install -y npm
 Using npm install inherits and n, and the node version required by Rocket.Chat:
 
 ```bash
-sudo npm install -g inherits n && sudo n 12.14.0
+sudo npm install -g inherits n && sudo n 12.18.4
 ```
 
 ## Install Rocket.Chat
